@@ -1,5 +1,5 @@
 ### Hi there 👋
-![background color is blue pink](background.jpg)
+
 <img src="background.jpg" height="50" width="100">
 
 <!--
