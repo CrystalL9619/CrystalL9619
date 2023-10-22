@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning HTML/CSS, C#, Javasript, SQL
-⚡ Fun fact: Ii's a big challenge for me as a beginner, however, I love coding !
+
